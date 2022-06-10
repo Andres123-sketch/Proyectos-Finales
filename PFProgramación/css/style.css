@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap');
+
+#txt-telefono
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    
+}
+
+#titulo_contenido
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+#tarjetas-canciones
+{
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+}
+
+#texto_cancion
+{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#titulo_texto
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+#parrafo-inicio
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+#texto_nombre
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+#subtitulo_nombre
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300; 
+}
